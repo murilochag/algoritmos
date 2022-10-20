@@ -1,4 +1,4 @@
-## algoritmo
+##  👨‍💻 algoritmo
  codigos desenvolvidas na materia de algoritmos
 
 * Materia: algoritmo 68h
