@@ -1,3 +1,7 @@
-aqui estão os algorítmos que foram feitos por mim, murilo das chagas, na matéria de algoritmos no curso Sistemas de Informação da universidade federal do pará.
+##algoritmo<h2>
+> codigos desenvolvidas na materia de algoritmos
 
-os augoritmos foram desenvilvidos com a pseudolinguagem Portugol
+*Materia: algoritmo 68h
+*Periodo: 1º semestre
+*Docente: Vinicius de Abreu
+*Instituição: Universidade Federal do Estado do Pará
